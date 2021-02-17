@@ -1,0 +1,350 @@
+2020-10-05 12:04:15,494 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-05 12:04:15,495 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-05 12:05:04,823 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-05 12:05:04,829 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/10004/1' processes=8 threads=8, memory=17.07 GB>
+2020-10-05 12:09:18,361 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-05 12:09:18,361 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-05 12:40:38,069 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-05 12:40:38,070 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-05 13:03:23,188 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-05 13:03:23,189 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-05 13:10:10,980 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-06 13:02:56,184 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-06 13:02:56,184 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 09:37:26,805 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 09:37:26,805 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 09:51:13,668 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 09:51:13,668 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 10:03:00,862 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 10:03:00,862 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 10:13:25,009 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 10:13:25,009 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 10:14:27,796 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 10:14:27,797 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 10:26:27,939 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 10:26:27,939 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 10:30:40,884 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 10:30:40,885 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 10:31:09,137 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 10:31:09,143 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 10:35:37,580 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 10:35:37,580 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 10:35:37,649 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:37:13,423 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 10:37:13,423 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 10:37:13,494 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:39:03,397 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 10:39:03,397 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 10:39:03,491 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:47:27,087 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 10:47:27,101 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 10:47:27,166 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:47:32,798 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 10:47:33,028 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 10:47:33,373 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:47:36,629 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:47:38,487 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:47:41,118 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:47:43,716 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:47:43,726 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:48:16,469 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:48:19,451 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:48:22,273 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:48:25,921 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:48:29,974 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:48:33,288 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:48:53,319 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:49:07,779 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:49:30,564 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:49:38,952 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:49:46,840 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:50:05,421 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:50:10,371 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:50:31,496 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 10:50:31,496 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 10:50:31,557 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:50:37,103 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 10:50:37,119 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 10:50:38,556 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:50:40,378 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:50:52,924 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:50:54,273 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:50:57,193 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:50:57,182 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:51:20,541 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:51:23,475 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:51:25,951 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:51:29,298 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:51:32,436 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:51:35,188 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:51:52,412 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:52:04,093 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:52:22,560 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:52:29,573 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:52:34,739 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:52:50,445 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:52:54,532 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:53:12,496 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 10:53:12,496 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 10:53:12,552 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:53:18,567 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 10:53:18,570 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 10:53:18,838 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:53:18,858 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:53:33,092 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:53:37,545 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:53:39,690 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:53:41,680 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:54:03,337 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:54:06,183 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:54:09,034 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:54:12,135 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:54:15,150 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:54:20,250 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:54:29,420 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:54:37,523 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:54:59,523 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:55:03,755 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:55:07,599 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:55:15,172 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:55:20,750 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:55:38,437 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 10:55:38,438 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 10:55:38,493 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:55:43,813 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 10:55:43,817 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 10:55:46,093 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:55:47,953 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:55:52,329 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:55:55,258 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:56:00,023 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:56:02,242 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:56:22,058 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:56:25,018 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:56:28,191 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:56:31,382 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:56:31,396 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:56:38,763 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:56:46,963 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:56:56,054 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:57:15,984 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:57:19,916 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:57:24,851 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:57:32,194 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:57:37,307 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:57:54,576 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 10:57:54,576 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 10:57:54,630 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:57:59,588 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 10:57:59,613 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 10:58:07,010 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:57:59,899 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:58:12,220 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:58:12,234 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:58:14,155 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:58:16,449 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:58:39,848 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:58:43,742 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:58:48,167 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:58:51,975 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:58:55,306 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:58:58,911 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:59:02,648 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:59:06,088 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:59:23,942 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:59:30,011 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:59:50,064 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 10:59:59,250 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:00:20,076 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:00:36,266 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:00:36,266 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:00:36,304 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:00:41,480 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:00:41,497 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:00:41,712 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:00:43,987 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:00:54,503 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:00:56,398 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:00:58,653 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:01:00,088 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:01:19,456 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:01:22,983 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:01:26,167 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:01:29,826 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:01:33,422 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:01:37,344 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:01:41,564 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:01:45,615 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:02:07,778 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:02:12,743 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:02:30,635 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:02:39,706 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:03:00,090 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:03:15,023 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:03:15,024 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:03:15,063 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:03:19,698 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:03:19,702 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:03:21,769 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:03:21,782 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:03:27,368 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:03:29,773 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:03:33,276 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:03:34,931 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:03:54,419 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:03:57,954 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:04:01,541 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:04:04,183 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:04:29,034 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:04:32,453 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:04:36,816 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:04:40,216 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:04:54,404 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:05:04,382 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:05:11,367 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:05:17,573 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:05:21,183 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:05:35,483 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:05:35,483 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:05:35,525 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:05:41,213 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:05:41,218 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:05:41,402 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:05:48,888 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:05:48,909 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:05:52,806 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:05:52,814 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:05:57,024 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:06:19,038 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:06:21,935 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:06:24,913 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:06:28,210 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:06:53,446 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:06:56,923 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:07:01,098 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:07:04,638 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:07:27,174 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:07:31,653 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:07:35,917 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:07:42,600 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:07:46,322 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:08:02,683 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:08:02,684 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:08:02,866 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:08:02,869 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:08:06,016 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:08:07,739 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:08:07,757 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:09:03,850 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:09:03,850 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:09:04,034 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:09:04,037 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:09:04,242 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:09:07,140 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:09:12,107 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:10:05,871 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:10:05,871 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:10:06,083 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:10:06,086 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:10:07,992 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:10:09,536 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:10:12,978 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:11:07,444 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:11:07,444 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:11:07,657 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:11:07,660 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:11:10,112 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:11:13,294 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:11:13,308 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:12:16,515 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:12:16,515 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:12:16,775 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:12:16,778 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:12:17,172 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:12:20,732 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:12:20,774 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:13:27,029 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:13:27,029 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:13:27,309 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:13:27,314 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:13:31,195 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:13:33,026 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:13:33,072 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:14:37,146 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:14:37,147 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:14:37,351 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:14:37,356 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:14:39,100 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:14:39,132 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:14:43,134 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:15:44,746 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:15:44,746 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:15:44,968 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:15:44,984 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:15:46,965 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:15:49,158 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:15:52,059 - fbprophet.models - WARNING - Optimization terminated abnormally. Falling back to Newton.
+2020-10-07 11:16:52,681 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:16:52,681 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:16:53,082 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:16:53,088 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:17:51,473 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:17:51,474 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:17:51,779 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:17:51,784 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:18:48,722 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:18:48,723 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:18:48,957 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:18:48,961 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:19:41,691 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:19:41,692 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:19:41,884 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:19:41,887 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:20:32,062 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:20:32,063 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:20:32,367 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:20:32,371 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:21:33,540 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:21:33,540 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:21:33,869 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:21:33,873 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:22:35,328 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:22:35,329 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:22:35,691 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:22:35,694 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:23:34,654 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:23:34,655 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:23:35,009 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:23:35,012 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:24:31,655 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:24:31,655 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:24:31,936 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:24:31,940 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:25:33,589 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:25:33,589 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:25:33,886 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:25:33,891 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:26:38,233 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:26:38,234 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:26:38,951 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:26:38,956 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:27:38,048 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:27:38,049 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:27:38,629 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:27:38,632 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:28:32,719 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:28:32,719 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:28:33,276 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:28:33,281 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:29:25,922 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:29:25,923 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:29:26,512 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:29:26,527 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:30:18,931 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:30:18,931 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:30:19,399 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:30:19,402 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>
+2020-10-07 11:31:11,021 - fbprophet - INFO - Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+2020-10-07 11:31:11,021 - fbprophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2020-10-07 11:31:11,488 - fbprophet - INFO - Making 21 forecasts with cutoffs between 1998-06-17 00:00:00 and 2018-06-12 00:00:00
+2020-10-07 11:31:11,503 - fbprophet - INFO - Applying in parallel with <Client: 'inproc://192.168.1.2/21908/1' processes=1 threads=8, memory=17.07 GB>

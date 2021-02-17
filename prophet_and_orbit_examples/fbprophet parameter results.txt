@@ -1,0 +1,14 @@
+fbprophet model params results
+The Best RMSES paramters are
+{'changepoint_prior_scale': 0.001, 'seasonality_prior_scale': 0.01, 'holidays_prior_scale': 0.01}
+The Best MSE paramters are
+{'changepoint_prior_scale': 0.001, 'seasonality_prior_scale': 0.01, 'holidays_prior_scale': 0.01}
+The Best MAE paramters are
+{'changepoint_prior_scale': 0.1, 'seasonality_prior_scale': 0.01, 'holidays_prior_scale': 0.01}
+The Best MAPE paramters are
+{'changepoint_prior_scale': 0.1, 'seasonality_prior_scale': 0.01, 'holidays_prior_scale': 0.01}
+The Best MDAPE paramters are
+{'changepoint_prior_scale': 0.1, 'seasonality_prior_scale': 0.01, 'holidays_prior_scale': 0.01}
+The Best parameters for Coverage are
+{'changepoint_prior_scale': 0.5, 'seasonality_prior_scale': 10.0, 'holidays_prior_scale': 10}
+--- 2678.241530895233 seconds ---
